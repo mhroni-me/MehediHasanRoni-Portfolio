@@ -24,7 +24,8 @@ Diploma in Mechanical Engineering | Open-Source Learner | Innovator & Author
 ### 🔥 Robotics & Safety Technology
 - **GAFS-ULTRA (Gas & Fire Protection Shield):** Low-cost, power-independent fire & gas prevention system.  
 - **3D Drone Mapping System:** Real-time land/building mapping using **LiDAR + AI + ROS**.  
-- **Advance Home Automation (AHA):** ESP32-powered smart home module with voice, NFC & universal IR support.  
+- **Advance Home Automation (AHA):** ESP32-powered smart home module with voice, NFC & universal IR support.
+- **Advance Machine Assembling (AMA):** Innovative assembly automation system for industrial and mechanical applications, designed to optimize machine setup, improve efficiency, and reduce manual errors. 
 
 ### 🌍 Open Source Contributions
 - Robotics & automation tutorials for students and engineers  
@@ -55,7 +56,7 @@ Diploma in Mechanical Engineering | Open-Source Learner | Innovator & Author
 - Founder of **Creativity Icon** – Bangladesh’s innovation & research community  
 - **12+ National & International Olympiads** (Math, Physics, ICT, AI, Economics, Earth & Wildlife Science)  
 - Multiple **National Awards** for Robotics, Safety Tech & Innovation  
-- Author of research papers in **Smart Automation, AI Drones & Safety Systems**  
+- Author of research papers in **Smart Automation, AI Drones & Safety Systems,GAFS-ULTRA,And AMA**  
 
 ---
 
