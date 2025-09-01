@@ -3,7 +3,8 @@
 **Founder @ [Creativity Icon](https://www.creativityicon.com)** |  
 Building **Robotics 🤖**, **Smart Automation ⚙️**, & **Safety Tech 🔥**  
 Diploma in Mechanical Engineering | Open-Source Learner | Innovator & Author  
-<img width="1280" height="640" alt="banner for portfolio" src="https://github.com/user-attachments/assets/108dce36-3466-4229-93c9-431342947482" />
+<img width="1280" height="640" alt="banner" src="https://github.com/user-attachments/assets/c15b4b62-7ab2-4794-a89b-5f09991bb22d" />
+
 
 
 ---
